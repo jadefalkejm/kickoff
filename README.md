@@ -1,11 +1,9 @@
 # kickoff
-Test repository 
-Hi creative developer,
+Test repository 2
+Second try!
 
-my name is Aidan. I have never used GitHub before, but am working in IT and want to learn about developers job.
+I want to develop more ;-)
 
-Perhaps this helps me to get access to the problems and challenges of your business.
+Let's check what happens now.
 
-Kind Regards
-
-Commit
+Commit.
